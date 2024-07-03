@@ -34,12 +34,12 @@
   /* Showcase */
   
   body {
-    background: url("/SWS/img/She_bg.jpg") no-repeat center
+    background: url("/static/SWS/img/She_bg.jpg") no-repeat center
     center/cover;
     /* height: 1000px;  */
   }
   #showcase {
-    background: url("/img/She_bg.jpg") no-repeat center
+    background: url("/static/img/She_bg.jpg") no-repeat center
     center/cover;
   }
   #showcase .showcase-content {
