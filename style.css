@@ -34,12 +34,12 @@
   /* Showcase */
   
   body {
-    background: url("/static/SWS/img/She_bg.jpg") no-repeat center
+    background: url("https://interwar.github.io/SWS/style.css") no-repeat center
     center/cover;
     /* height: 1000px;  */
   }
   #showcase {
-    background: url("/static/img/She_bg.jpg") no-repeat center
+    background: url("https://interwar.github.io/SWS/style.css") no-repeat center
     center/cover;
   }
   #showcase .showcase-content {
